@@ -1,4 +1,4 @@
-module github.com/1Password/srp
+module github.com/nitin06890/srp
 
 go 1.15
 
@@ -7,4 +7,3 @@ require (
 	golang.org/x/text v0.3.7
 )
 
-replace github.com/1Password/srp => github.com/nitin06890/srp v0.2.0

@@ -8,7 +8,7 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/1Password/srp"
+	"github.com/nitin06890/srp"
 )
 
 // ExampleServerClientKey is an example.
